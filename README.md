@@ -39,7 +39,7 @@ The performance comparison of the Classifier is as follows:
 The performance of Xgboost Classifier is as follows:
 ![test](Snips/R_2.JPG)
 
-## Conclusion :
+## Conclusions :
 
 This project has built a model that can detect auto insurance fraud. In doing so, the model can reduces loses for insurance companies. The challenge behind fraud detection in machine learning is that frauds are far less common as compared to legit insurance claims.
 
